@@ -1,3 +1,5 @@
+Mini-Music-Player workshop using react and redux.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
