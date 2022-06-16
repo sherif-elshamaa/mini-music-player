@@ -13,21 +13,21 @@ const initialState = {
     },
     {
       id: v4(),
-      name: 'اللي بينا حياة',
-      artist: 'artist',
-      src: 'https://www.esm3.com/mp3/play.asp?sid=299282',
-      album: 'N/A',
+      name: 'tesla',
+      artist: 'marwan moussa',
+      src: 'https://serv100.albumaty.com/songs_2020/Albumaty.Com_mrwan_mwsy_tysla.mp3',
+      album: 'florida',
       uploadDate: new Date(Date.now()),
-      img: "https://27mi124bz6zg1hqy6n192jkb-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/Our-Top-10-Songs-About-School-768x569.png"
+      img: "https://www.albumaty.com/uploads/cdnimg/5d773e8e6c9e080c95cfe0ae411b9342.jpg"
     },
     {
       id: v4(),
-      name: 'أنت الحظ',
-      artist: 'amr diab',
-      src: 'https://www.esm3.com/mp3/play.asp?sid=297526',
-      album: 'عيشني',
+      name: 'segara',
+      artist: 'afroto',
+      src: 'https://serv100.albumaty.com/songs_2020/Albumaty.Com_afrwtw_sygarh.mp3',
+      album: 'N/A',
       uploadDate: new Date(Date.now()),
-      img: "https://esm3cdn.com/singers/albums/21175.gif"
+      img: "https://www.albumaty.com/uploads/cdnimg/33727fed199110e93ce4351ec82455f1.webp"
     },
     {
       id: v4(),
@@ -36,7 +36,7 @@ const initialState = {
       src: 'https://anghamiaudio.akamaized.net/mp43/196398364883_001_ISRC_QZMEN2132789_MD5_3900f0ab350e5ac183f29530cddec4a1-2.m4a?anghakamitoken=st=1654610253~exp=1654610733~acl=*~hmac=3cb50506f8ed31e10f13534112d646924f6f29a8b84bd1ca24c43071ac1f0b57&ngsw-bypass=true',
       album: 'No Way Home',
       uploadDate: new Date(Date.now()),
-      img: "https://img.youm7.com/ArticleImgs/2021/11/15/382488-%D8%A7%D9%84%D8%A8%D9%88%D8%B3%D8%AA%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D9%81%D9%8A%D9%84%D9%85.jpg"
+      img: "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/11/17/16371136772381.jpg"
     }
   ]
 }

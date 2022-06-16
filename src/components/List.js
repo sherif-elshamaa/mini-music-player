@@ -48,7 +48,7 @@ function List() {
                                 </thead>
                                 <tbody>
                                     {state.map((song) => (
-                                        <tr key={song.id} onClick={() => { setCurrentSong(song) }} className={currentSong.id === song.id ? "bg-red-500 text-white" : ""}>
+                                        <tr key={song.id} onClick={() => { setCurrentSong(song) }} className="bg-slate-300">
                                             <td className="px-5 py-5 border-b border-gray-200  text-sm">
                                                 <div className="flex items-center">
                                                     <div className="flex-shrink-0">
@@ -83,8 +83,8 @@ function List() {
                                     ))}
                                 </tbody>
                             </table>
-                            <div className="flex justify-center  ">
-                                <button className="bg-red-200 p-5 m-5 rounded-3xl hover:bg-red-600 hover:text-white" onClick={() => { setOpen(true) }}>addSong</button>
+                            <div className="flex justify-center bg-white ">
+                                <button className="bg-rose-500 p-5 m-5 rounded-3xl hover:bg-rose-600 hover:text-white" onClick={() => { setOpen(true) }}>addSong</button>
                             </div>
                         </div>
                     </div>
