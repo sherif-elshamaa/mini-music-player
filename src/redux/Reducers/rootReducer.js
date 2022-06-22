@@ -29,15 +29,6 @@ const initialState = {
       uploadDate: new Date(Date.now()),
       img: "https://www.albumaty.com/uploads/cdnimg/33727fed199110e93ce4351ec82455f1.webp"
     },
-    {
-      id: v4(),
-      name: 'spider man',
-      artist: 'Marvel studio',
-      src: 'https://anghamiaudio.akamaized.net/mp43/196398364883_001_ISRC_QZMEN2132789_MD5_3900f0ab350e5ac183f29530cddec4a1-2.m4a?anghakamitoken=st=1654610253~exp=1654610733~acl=*~hmac=3cb50506f8ed31e10f13534112d646924f6f29a8b84bd1ca24c43071ac1f0b57&ngsw-bypass=true',
-      album: 'No Way Home',
-      uploadDate: new Date(Date.now()),
-      img: "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/11/17/16371136772381.jpg"
-    }
   ]
 }
 
